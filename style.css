@@ -2,12 +2,6 @@
 
 .wrapper-2 {
     font-family: 'Open Sans Condensed', sans-serif;
+    vertical-align: middle
 }
 
-p {
-    text-decoration: underline;
-}
-
-body {
-    background-color: black;
-}

@@ -3,3 +3,7 @@
 .wrapper-2 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
+
+p {
+    text-decoration: underline;
+}

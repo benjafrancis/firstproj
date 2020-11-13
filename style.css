@@ -13,3 +13,12 @@
 .video-timestamp__date .video-timestamp__divider .video-timestamp__time {
     display: none;
 }
+
+.gl-widget--selected-btn {
+    border: 2px solid white !important;
+    background: #B2B3B5 !important;
+}
+
+.gl-widget__btn--outline-primary:active .gl-widget__btn--outline-primary:focus .gl-widget__btn--outline-primary:hover {
+    color: black !important
+}

@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
 
-.wrapper-2 {
+.fma-wrapper.wrapper-2 {
     font-family: 'Open Sans Condensed', sans-serif;
-    vertical-align: middle
+    vertical-align: middle;
+    display: none
+}
+
+.video-content {
+    border-top: none;
 }
 

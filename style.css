@@ -10,7 +10,15 @@
     border-top: none;
 }
 
-.video-timestamp__date .video-timestamp__divider .video-timestamp__time {
+.video-timestamp__date {
+    display: none;
+}
+
+.video-timestamp__divider {
+    display: none;
+}
+
+.video-timestamp__time {
     display: none;
 }
 
@@ -21,9 +29,9 @@
 
 .gl-widget__btn--primary {
     background: #B2b3b5 !important;
-    color: black;
+    color: black !important;
 }
 
-.gl-widget__btn--outline-primary:active .gl-widget__btn--outline-primary:focus .gl-widget__btn--outline-primary:hover {
+/* .gl-widget__btn--outline-primary:active .gl-widget__btn--outline-primary:focus .gl-widget__btn--outline-primary:hover {
     color: black !important
-}
+} */

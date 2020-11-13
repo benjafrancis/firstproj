@@ -19,6 +19,11 @@
     background: #B2B3B5 !important;
 }
 
+.gl-widget__btn--primary {
+    background: #B2b3b5 !important;
+    color: black;
+}
+
 .gl-widget__btn--outline-primary:active .gl-widget__btn--outline-primary:focus .gl-widget__btn--outline-primary:hover {
     color: black !important
 }

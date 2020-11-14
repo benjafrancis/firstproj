@@ -37,15 +37,7 @@ body {
     display: none;
 }
 
-.cta-f
-
-.gl-widget--selected-btn {
-    border: 2px solid white !important;
-    background: #B2B3B5 !important;
-}
-
-.gl-widget__btn--primary {
-    background: #B2b3b5 !important;
-    color: black !important;
+.gl-widget__other-payment-methods-container {
+    text-align: center
 }
 

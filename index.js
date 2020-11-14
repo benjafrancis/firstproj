@@ -1,3 +1,3 @@
-const mainPanel = document.querySelector(".main-panel")
-const newDiv = document.createElement('div')
-mainPanel.appendChild(newDiv)
+const donateButton = document.querySelector('.gl-widget__btn--primary')
+const redDonate = donateButton.style.backgroundColor
+redDonate = '#c80e14'

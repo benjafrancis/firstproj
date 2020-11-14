@@ -8,7 +8,7 @@ body {
 }
 
 .cta-footer {
-    background-color: none;
+    background: none;
 }
 
 .fma-wrapper.wrapper-2 {
@@ -33,6 +33,8 @@ body {
     display: none;
 }
 
+.cta-f
+
 .gl-widget--selected-btn {
     border: 2px solid white !important;
     background: #B2B3B5 !important;
@@ -43,6 +45,3 @@ body {
     color: black !important;
 }
 
-/* .gl-widget__btn--outline-primary:active .gl-widget__btn--outline-primary:focus .gl-widget__btn--outline-primary:hover {
-    color: black !important
-} */

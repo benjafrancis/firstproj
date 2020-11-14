@@ -13,6 +13,7 @@ body {
 
 .cta-footer {
     background: none;
+    padding: 56px 0px 56px 0px;
 }
 
 .fma-wrapper.wrapper-2 {
@@ -35,9 +36,5 @@ body {
 
 .video_timestamp__time {
     display: none;
-}
-
-.gl-widget__other-payment-methods-container {
-    text-align: center
 }
 

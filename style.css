@@ -7,6 +7,10 @@ body {
     background-size: 1000px;
 }
 
+.video-player__meta-title {
+    font-family: 'open sans condensed', sans-serif;
+}
+
 .cta-footer {
     background: none;
 }

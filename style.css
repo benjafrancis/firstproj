@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
 
+body {
+    background-image: url("https://arsnovanyc.com/wp-content/uploads/2020/11/StarryNightsv2.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 1000px;
+}
+
+.cta-footer {
+    background-color: none;
+}
+
 .fma-wrapper.wrapper-2 {
     font-family: 'Open Sans Condensed', sans-serif;
     vertical-align: middle;

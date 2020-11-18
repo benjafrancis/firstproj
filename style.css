@@ -37,3 +37,11 @@ body {
 .video_timestamp__time {
     display: none;
 }
+
+.video-footer {
+    display: none;
+}
+
+.custom-copy {
+    display: none;
+}

@@ -6,15 +6,15 @@ newDiv.innerHTML = '<iframe src="https://go.arena.im/embed/chat/benj-francis-167
 vidPanel.appendChild(newDiv)
 
 
-document.addEventListener("DOMContentLoaded", function(event) {
-const soundButton = document.querySelector('.dayphO');
-soundButton.style.display = 'none';
+// document.addEventListener("DOMContentLoaded", function(event) {
+// const soundButton = document.querySelector('.dayphO');
+// soundButton.style.display = 'none';
 
-const popDiv = document.querySelector('.haYDwV')
-popDiv.remove('svg')
+// const popDiv = document.querySelector('.haYDwV')
+// popDiv.remove('svg')
 
-const newPopDiv = document.createElement('div')
-newPopDiv.innerHTML = '<h1 style="font-size: 1.2em">POP OUT CHAT</h1><img style="height: 24px" src="https://arsnovanyc.com/wp-content/uploads/2020/11/popoutwhite.png">'
-popDiv.appendChild(newPopDiv)
-})
+// const newPopDiv = document.createElement('div')
+// newPopDiv.innerHTML = '<h1 style="font-size: 1.2em">POP OUT CHAT</h1><img style="height: 24px" src="https://arsnovanyc.com/wp-content/uploads/2020/11/popoutwhite.png">'
+// popDiv.appendChild(newPopDiv)
+// })
 

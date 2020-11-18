@@ -37,9 +37,15 @@ body {
     display: none;
 }
 
-.cta-f
+.video-footer {
+    display: none;
+}
 
-.gl-widget--selected-btn {
+.custom-copy {
+    display: none;
+}
+
+/* .gl-widget--selected-btn {
     border: 2px solid white !important;
     background: #B2B3B5 !important;
 }
@@ -47,5 +53,5 @@ body {
 .gl-widget__btn--primary {
     background: #B2b3b5 !important;
     color: black !important;
-}
+} */
 

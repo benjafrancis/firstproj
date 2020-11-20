@@ -2,7 +2,7 @@
 
 const vidPanel = document.querySelector('.main-panel');
 const newDiv = document.createElement('div')
-newDiv.innerHTML = '<iframe src="https://go.arena.im/embed/chat/ars-nova/ufsh" style="border: 0; width: 1px; min-width: 100%; height: 450px; border-radius: 4px; margin-top: 20px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
+newDiv.innerHTML = '<iframe src="https://go.arena.im/embed/chat/ars-nova/ars-nova-global" style="border: 0; width: 1px; min-width: 100%; height: 450px; border-radius: 4px; margin-top: 20px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
 vidPanel.appendChild(newDiv)
 
 

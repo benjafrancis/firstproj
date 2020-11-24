@@ -8,6 +8,8 @@ const newDiv = document.createElement('div')
 newDiv.innerHTML = '<iframe class="chat-embed" src="https://go.arena.im/embed/chat/ars-nova/ars-nova-global" style="border: 0; width: 1px; min-width: 100%; height: 450px; border-radius: 4px; border-radius-top-right: 0px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
 vidPanel.appendChild(newDiv)
 
+console.log('hi')
+
 
 // document.addEventListener("DOMContentLoaded", function(event) {
 // const soundButton = document.querySelector('.dayphO');

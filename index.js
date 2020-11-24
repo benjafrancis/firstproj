@@ -1,8 +1,11 @@
 
 
 const vidPanel = document.querySelector('.main-panel');
+const newDiv2 = document.createElement('div')
+newDiv.innerHTML = '<img class="chat-popout" style="min-width: 100%; margin-top: 20px;" src="https://arsnovanyc.com/wp-content/uploads/2020/11/popoutchat.jpg">'
+vidPanel.appendChild(newDiv2);
 const newDiv = document.createElement('div')
-newDiv.innerHTML = '<iframe class="chat-embed" src="https://go.arena.im/embed/chat/ars-nova/ars-nova-global" style="border: 0; width: 1px; min-width: 100%; height: 450px; border-radius: 4px; margin-top: 20px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
+newDiv.innerHTML = '<iframe class="chat-embed" src="https://go.arena.im/embed/chat/ars-nova/ars-nova-global" style="border: 0; width: 1px; min-width: 100%; height: 450px; border-radius: 4px; border-radius-top-right: 0px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
 vidPanel.appendChild(newDiv)
 
 

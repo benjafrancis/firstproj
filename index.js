@@ -5,7 +5,7 @@ const newDiv2 = document.createElement('div')
 newDiv2.innerHTML = '<img class="chat-popout" style="width: 100%; margin-left: 2px; margin-top: 22px;" src="https://arsnovanyc.com/wp-content/uploads/2020/11/popoutchatv2.jpg">'
 vidPanel.appendChild(newDiv2);
 const newDiv = document.createElement('div')
-newDiv.innerHTML = '<iframe class="chat-embed" src="https://go.arena.im/embed/chat/ars-nova-30830/xkor" style="border: 0; width: 1px; min-width: 100%; height: 486px; border-radius: 4px; border-top-right-radius: 0px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
+newDiv.innerHTML = '<iframe class="chat-embed" src="https://go.arena.im/embed/chat/ars-nova-30830/ars-nova-30830-global" style="border: 0; width: 1px; min-width: 100%; height: 486px; border-radius: 4px; border-top-right-radius: 0px; margin-bottom:8px; border: 2px solid #c80e14;"></iframe>'
 vidPanel.appendChild(newDiv)
 
 console.log('hi')
